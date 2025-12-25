@@ -1,0 +1,81 @@
+2025-09-02 18:08:14.989 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Suite started: Default suite
+2025-09-02 18:08:15.325 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - ExtentReports initialized at: Current_Test_Results\ExtentReport.html
+2025-09-02 18:08:15.326 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Test suite setup completed
+2025-09-02 18:08:15.369 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testEmptyEmailLogin
+2025-09-02 18:08:18.450 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-09-02 18:08:27.652 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Screenshot captured: C:\Users\chinmayprabhat\eclipse-workspace\SeleniumAssignment\Current_Test_Results/screenshots\testEmptyEmailLogin_InvalidCase.png
+2025-09-02 18:08:29.004 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-09-02 18:08:31.544 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testInvalidLogin
+2025-09-02 18:08:32.954 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-09-02 18:08:45.300 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-09-02 18:08:45.305 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testInvalidLogin
+2025-09-02 18:08:47.344 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-09-02 18:09:02.163 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-09-02 18:09:02.269 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testProductSearch
+2025-09-02 18:09:04.294 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-09-02 18:09:10.911 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-09-02 18:09:11.020 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testRandomProductSearch
+2025-09-02 18:09:12.636 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-09-02 18:09:19.460 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-09-02 18:09:19.528 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testAddToCartFunctionality
+2025-09-02 18:09:21.500 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-09-02 18:09:33.369 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-09-02 18:09:33.441 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testProductDetailsDisplay
+2025-09-02 18:09:35.249 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-09-02 18:09:44.746 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-09-02 18:09:46.453 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Extent report flushed successfully
+2025-09-02 18:09:46.456 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Test suite teardown completed
+2025-09-02 18:09:46.537 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Extent report flushed successfully
+2025-09-02 18:09:46.539 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Suite completed: Default suite
+2025-12-25 23:43:43.434 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Suite started: Default suite
+2025-12-25 23:43:43.779 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - ExtentReports initialized at: Current_Test_Results\ExtentReport.html
+2025-12-25 23:43:43.780 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Test suite setup completed
+2025-12-25 23:43:44.507 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testProductSearch
+2025-12-25 23:43:47.482 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:43:55.178 [main] ERROR com.nagp.selenium.assignment.base.BaseTest - Failed to capture screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=143.0.7499.148)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.28'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2522e6fb5740bcbb5dcb3050d1e0a7a, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.148, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\CHINMA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55633}, goog:processID: 36384, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55633/devtoo..., se:cdpVersion: 143.0.7499.148, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2522e6fb5740bcbb5dcb3050d1e0a7a
+2025-12-25 23:43:55.640 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:43:55.705 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testRandomProductSearch
+2025-12-25 23:44:24.622 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Suite started: Default suite
+2025-12-25 23:44:24.942 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - ExtentReports initialized at: Current_Test_Results\ExtentReport.html
+2025-12-25 23:44:24.943 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Test suite setup completed
+2025-12-25 23:44:25.567 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testProductSearch
+2025-12-25 23:44:28.285 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:44:36.353 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:44:36.407 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testRandomProductSearch
+2025-12-25 23:44:39.152 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:44:47.060 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:44:47.166 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testAddToCartFunctionality
+2025-12-25 23:44:49.883 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:45:03.789 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:45:03.886 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testProductDetailsDisplay
+2025-12-25 23:45:06.176 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:45:27.624 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Screenshot captured: C:\Users\chinmayprabhat\eclipse-workspace\SeleniumAssignment_Old\Current_Test_Results/screenshots\testProductDetailsDisplay_InvalidCase.png
+2025-12-25 23:45:29.002 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:45:29.870 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Extent report flushed successfully
+2025-12-25 23:45:29.870 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Test suite teardown completed
+2025-12-25 23:45:29.910 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Extent report flushed successfully
+2025-12-25 23:45:29.911 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Suite completed: Default suite
+2025-12-25 23:47:03.458 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Suite started: Default suite
+2025-12-25 23:47:03.720 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - ExtentReports initialized at: Current_Test_Results\ExtentReport.html
+2025-12-25 23:47:03.720 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Test suite setup completed
+2025-12-25 23:47:04.464 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testProductSearch
+2025-12-25 23:47:07.238 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:47:15.511 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:47:15.610 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testRandomProductSearch
+2025-12-25 23:47:18.201 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:47:26.344 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:47:26.440 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Starting test: testAddToCartFunctionality
+2025-12-25 23:47:29.247 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Initialized chrome driver
+2025-12-25 23:47:43.621 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - WebDriver closed
+2025-12-25 23:47:44.244 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Extent report flushed successfully
+2025-12-25 23:47:44.244 [main] INFO  com.nagp.selenium.assignment.base.BaseTest - Test suite teardown completed
+2025-12-25 23:47:44.267 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Extent report flushed successfully
+2025-12-25 23:47:44.267 [main] INFO  com.nagp.selenium.assignment.reporting.ExtentReportManager - Suite completed: Default suite
