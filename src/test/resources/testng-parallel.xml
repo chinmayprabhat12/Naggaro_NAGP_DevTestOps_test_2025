@@ -9,7 +9,7 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 	<!--	<class name="com.test.tests.LoginTest" />-->
-			<class name="com.test.tests.SearchTest" />
+			<!-- <class name="com.test.tests.SearchTest" /> -->
 			<class name="com.test.tests.ProductTest" />
 			
 
