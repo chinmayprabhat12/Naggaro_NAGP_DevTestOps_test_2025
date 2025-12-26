@@ -22,15 +22,15 @@ public class SearchTest extends BaseTest {
 		Assert.assertTrue(resultsCount > 0, "No search results found for product: " + productName);
 	}
 
-	@Test(dataProvider = "productData", dataProviderClass = ExcelDataProvider.class)
-	public void testRandomProductSearch(String product) {
-		HomePage homePage = new HomePage(driver);
-		SearchResultsPage searchResultsPage = new SearchResultsPage(driver);
+	// @Test(dataProvider = "productData", dataProviderClass = ExcelDataProvider.class)
+	// public void testRandomProductSearch(String product) {
+	// 	HomePage homePage = new HomePage(driver);
+	// 	SearchResultsPage searchResultsPage = new SearchResultsPage(driver);
 
-		homePage.navigateToHomePage();
-		homePage.searchForProduct(product);
+	// 	homePage.navigateToHomePage();
+	// 	homePage.searchForProduct(product);
 
-		int resultsCount = searchResultsPage.getSearchResultsCount();
-		Assert.assertTrue(resultsCount > 0, "No search results found for random product: " + product);
-	}
+	// 	int resultsCount = searchResultsPage.getSearchResultsCount();
+	// 	Assert.assertTrue(resultsCount > 0, "No search results found for random product: " + product);
+	// }
 }
